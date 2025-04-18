@@ -1,0 +1,21 @@
+{
+  "name": "blackie",
+  "displayName": "Blackie",
+  "description": "Total Black",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blackie",
+        "uiTheme": "hc-black",
+        "path": "./themes/Blackie-color-theme.json"
+      }
+    ]
+  }
+}
